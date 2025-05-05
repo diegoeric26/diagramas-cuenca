@@ -2,7 +2,7 @@
 
 Aquí está el diagrama que ilustra las dinámicas de la cuenca:
 
-```mermaid
+```mermaid```
 %% Pega TU código Mermaid EXACTAMENTE AQUÍ dentro de este bloque
 graph TD
     subgraph Factores de Degradación
